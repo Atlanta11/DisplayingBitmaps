@@ -1,0 +1,36 @@
+#Internal package file, do not edit.
+#Thu Dec 15 18:11:55 CET 2016
+2.base=C\:\\Users\\ginov\\Downloads\\DisplayingBitmaps\\DisplayingBitmaps\\Application\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\Users\\ginov\\Downloads\\DisplayingBitmaps\\DisplayingBitmaps\\Application\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\image_detail_pager.xml
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\ginov\\Downloads\\DisplayingBitmaps\\DisplayingBitmaps\\Application\\build\\intermediates\\res\\resources-debug.ap_
+6.file=C\:\\Users\\ginov\\Downloads\\DisplayingBitmaps\\DisplayingBitmaps\\Application\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+2.set=ANDROID_RESOURCE
+10.set=ANDROID_RESOURCE
+10.file=C\:\\Users\\ginov\\Downloads\\DisplayingBitmaps\\DisplayingBitmaps\\Application\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+4.base=C\:\\Users\\ginov\\Downloads\\DisplayingBitmaps\\DisplayingBitmaps\\Application\\build\\intermediates\\res\\resources-debug.ap_
+7.file=C\:\\Users\\ginov\\Downloads\\DisplayingBitmaps\\DisplayingBitmaps\\Application\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu-v11\\main_menu.xml
+7.set=ANDROID_RESOURCE
+count=11
+0.file=C\:\\Users\\ginov\\Downloads\\DisplayingBitmaps\\DisplayingBitmaps\\Application\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\tile.9.png
+5.base=C\:\\Users\\ginov\\Downloads\\DisplayingBitmaps\\DisplayingBitmaps\\Application\\build\\intermediates\\res\\resources-debug.ap_
+8.file=C\:\\Users\\ginov\\Downloads\\DisplayingBitmaps\\DisplayingBitmaps\\Application\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-nodpi-v4\\empty_photo.png
+4.set=ANDROID_RESOURCE
+6.base=C\:\\Users\\ginov\\Downloads\\DisplayingBitmaps\\DisplayingBitmaps\\Application\\build\\intermediates\\res\\resources-debug.ap_
+1.file=C\:\\Users\\ginov\\Downloads\\DisplayingBitmaps\\DisplayingBitmaps\\Application\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\image_grid_fragment.xml
+9.set=ANDROID_RESOURCE
+9.file=C\:\\Users\\ginov\\Downloads\\DisplayingBitmaps\\DisplayingBitmaps\\Application\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+10.base=C\:\\Users\\ginov\\Downloads\\DisplayingBitmaps\\DisplayingBitmaps\\Application\\build\\intermediates\\res\\resources-debug.ap_
+1.set=ANDROID_RESOURCE
+7.base=C\:\\Users\\ginov\\Downloads\\DisplayingBitmaps\\DisplayingBitmaps\\Application\\build\\intermediates\\res\\resources-debug.ap_
+2.file=C\:\\Users\\ginov\\Downloads\\DisplayingBitmaps\\DisplayingBitmaps\\Application\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\main_menu.xml
+6.set=ANDROID_RESOURCE
+0.base=C\:\\Users\\ginov\\Downloads\\DisplayingBitmaps\\DisplayingBitmaps\\Application\\build\\intermediates\\res\\resources-debug.ap_
+8.base=C\:\\Users\\ginov\\Downloads\\DisplayingBitmaps\\DisplayingBitmaps\\Application\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Users\\ginov\\Downloads\\DisplayingBitmaps\\DisplayingBitmaps\\Application\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\image_detail_fragment.xml
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Users\\ginov\\Downloads\\DisplayingBitmaps\\DisplayingBitmaps\\Application\\build\\intermediates\\res\\resources-debug.ap_
+9.base=C\:\\Users\\ginov\\Downloads\\DisplayingBitmaps\\DisplayingBitmaps\\Application\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Users\\ginov\\Downloads\\DisplayingBitmaps\\DisplayingBitmaps\\Application\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\photogrid_list_selector.xml
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE

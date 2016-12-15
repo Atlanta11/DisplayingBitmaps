@@ -1,0 +1,7 @@
+#Thu Dec 15 18:12:20 CET 2016
+base.0=C\:\\Users\\ginov\\Downloads\\DisplayingBitmaps\\DisplayingBitmaps\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c4f1f5eb358d61d615a3e88f6cf46d24cb6cbf88
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\ginov\\Downloads\\DisplayingBitmaps\\DisplayingBitmaps\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_58f6fa727a01354399f8979607f65c9df2accd44\\classes.dex
+base.1=C\:\\Users\\ginov\\Downloads\\DisplayingBitmaps\\DisplayingBitmaps\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_58f6fa727a01354399f8979607f65c9df2accd44
+file.0=C\:\\Users\\ginov\\Downloads\\DisplayingBitmaps\\DisplayingBitmaps\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c4f1f5eb358d61d615a3e88f6cf46d24cb6cbf88\\classes.dex
